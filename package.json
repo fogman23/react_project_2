@@ -33,6 +33,6 @@
     ]
   },
   "devDependencies": {
-    "reactstrap": "^8.6.0"
+    "reactstrap": "^8.7.0"
   }
 }
